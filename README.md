@@ -20,7 +20,8 @@ Savunma: Eğer oyuncu bir sonraki hamlede kazanacaksa o kareyi kapatarak oyuncuy
 * **Döngüler & Koşullar:** Oyunun sürekliliği için `while` döngüsü; kazanma durumları için ise kapsamlı `if-elif-else` kontrol blokları kullanıldı.
 
 ## Nasıl Çalıştırılır?
-1. Terminali açın ve proje klasörüne gidin.
-2. Şu komutu çalıştırın:
-   ```bash
-   python xox_oyunu.py
+Projeyi bilgisayarınıza indirin (Klonlayın):
+```bash
+git clone [https://github.com/faruksrcn21-ux/xox-oyunu.git](https://github.com/faruksrcn21-ux/xox-oyunu.git)
+cd xox-oyunu
+```
