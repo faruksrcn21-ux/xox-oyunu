@@ -22,6 +22,6 @@ Savunma: Eğer oyuncu bir sonraki hamlede kazanacaksa o kareyi kapatarak oyuncuy
 ## Nasıl Çalıştırılır?
 Projeyi bilgisayarınıza indirin (Klonlayın):
 ```bash
-git clone [https://github.com/faruksrcn21-ux/xox-oyunu.git](https://github.com/faruksrcn21-ux/xox-oyunu.git)
+git clone https://github.com/faruksrcn21-ux/xox-oyunu.git
 cd xox-oyunu
 ```
